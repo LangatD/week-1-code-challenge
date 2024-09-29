@@ -1,4 +1,3 @@
-//function studentGrades(marks)
 let marks = prompt("Enter student marks:");
 marks = Number(marks);
 //A > 79, B - 60 to 79, C -  49 to 59, D - 40 to 49, E - less 40.
